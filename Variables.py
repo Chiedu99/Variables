@@ -1,0 +1,1 @@
+baseOfTriangle= float(input("What is the base of the triangle?:"))
